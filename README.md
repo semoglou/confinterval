@@ -1,4 +1,12 @@
 # confinterval
+
+<p align="center">
+  <a href="https://pypi.org/project/confinterval/"><img src="https://img.shields.io/pypi/v/confinterval?color=blue" alt="PyPI version"></a>&nbsp;&nbsp;
+  <a href="https://pypi.org/project/confinterval/"><img src="https://img.shields.io/pypi/pyversions/confinterval" alt="Python versions"></a>&nbsp;&nbsp;
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>&nbsp;&nbsp;
+  <a href="https://pepy.tech/project/confinterval"><img src="https://pepy.tech/badge/confinterval" alt="Downloads"></a>
+</p>
+
 A lightweight Python toolkit for computing confidence intervals for means, medians, percentiles, and proportions.
 
 It supports:
