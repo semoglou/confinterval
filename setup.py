@@ -1,3 +1,5 @@
+from setuptools import setup, find_packages
+
 setup(
     name="confinterval",
     version="0.1.0",
@@ -24,5 +26,5 @@ setup(
         "Topic :: Scientific/Engineering",
         "Topic :: Scientific/Engineering :: Mathematics",
     ],
-    license="MIT"
+    license="MIT",
 )
