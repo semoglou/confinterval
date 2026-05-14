@@ -7,7 +7,7 @@
   <a href="https://pepy.tech/project/confinterval"><img src="https://pepy.tech/badge/confinterval" alt="Downloads"></a>
 </p>
 
-A lightweight Python toolkit for computing confidence intervals for means, medians, percentiles, and proportions.
+A lightweight Python toolkit for computing confidence intervals for means, medians, percentiles, and proportions. 
 
 It supports:
 
